@@ -1,0 +1,12 @@
+[submodule "benchmarks/coremark"]
+	path = benchmarks/coremark
+	url = https://github.com/eembc/coremark
+[submodule "benchmarks/etl"]
+	path = benchmarks/etl
+	url = https://github.com/ETLCPP/etl
+[submodule "benchmarks/lz4"]
+	path = benchmarks/lz4
+	url = https://github.com/lz4/lz4
+[submodule "benchmarks/heatshrink"]
+	path = benchmarks/heatshrink
+	url = https://github.com/atomicobject/heatshrink
